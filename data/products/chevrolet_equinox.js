@@ -1,0 +1,1 @@
+window['PRODUCTS_CHEVROLET_EQUINOX'] = [];
