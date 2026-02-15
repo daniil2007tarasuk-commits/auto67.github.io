@@ -4,6 +4,6 @@ const SITE_CONFIG = {
     "tg": "euto67",
     "parallax": 0.15,
     "chatId": "",
-    "itemsInRow": 2,
-    "itemsPerPage": 4
+    "itemsInRow": 4,
+    "itemsPerPage": 16
 };

@@ -15,6 +15,10 @@ const MODELS_DATA = {
         {
             "name": "Trax",
             "img": "trax.jpg"
+        },
+        {
+            "name": "TrailBlazer",
+            "img": "default.jpg"
         }
     ],
     "buick": [
